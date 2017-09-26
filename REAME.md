@@ -44,3 +44,8 @@
 
 #### On Mac will print man page, on Windows will open the following page:
 `file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/git-push.html`
+
+### Push all local branches to remote
+
+`git push --all`
+![pull --all](/imgs/push-all.png)
