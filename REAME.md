@@ -29,3 +29,11 @@
 ### To push the current branch and set the remote as upstream, use
 
 `git push --set-upstream origin master.Team01`
+
+### Create your branch:
+
+`git branch  master.Team01.David`
+
+### set upstream branch
+
+`$ git push --set-upstream master.Team01.David` 
