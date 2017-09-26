@@ -41,3 +41,6 @@
 ### Open manual page to get help
 
 `git push --help`
+
+#### On Mac will print man page, on Windows will open the following page:
+`file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/git-push.html`
