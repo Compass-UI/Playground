@@ -1,4 +1,4 @@
-## Compass Playground Team 01
+## Compass Playground Team 01 David
 
 ## Upload initial branch:
 `git remote add origin https://github.com/Compass-UI/Playground.git`
