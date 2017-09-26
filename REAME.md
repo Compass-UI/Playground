@@ -25,3 +25,7 @@
 `git remote add origin https://github.com/Compass-UI/Playground.git`
 
 `git push -u origin master`
+
+### To push the current branch and set the remote as upstream, use
+
+`git push --set-upstream origin master.Team01`
