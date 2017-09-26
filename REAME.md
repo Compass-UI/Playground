@@ -37,3 +37,7 @@
 ### set upstream branch
 
 `$ git push --set-upstream master.Team01.David` 
+
+### Open manual page to get help
+
+`git push --help`
