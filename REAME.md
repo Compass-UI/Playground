@@ -85,3 +85,6 @@ gemini-david 🌴 :`
 [Git-flow on github](https://github.com/nvie/gitflow)
 
 ![Create branch based on another](https://i.stack.imgur.com/6qEWk.jpg)
+
+### Branch creation history visualization
+![branch-creation-history-visualization.png](/imgs/branch-creation-history-visualization.png)
