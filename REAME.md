@@ -69,3 +69,7 @@ gemini-david 🌴 :`
 ![git reset --hard HEAD](/imgs/hard-reset-head.png)
 
 ### I am resetting HEAD --hard <-- this should not be here>
+
+### Default reset is --mixed
+
+`git reset HEAD` is the same as `git reset HEAD --mixed`
