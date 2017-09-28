@@ -81,3 +81,7 @@ gemini-david 🌴 :`
 3. Staging/Index
 4. Repository
 
+## Git-flow
+[Git-flow on github](https://github.com/nvie/gitflow)
+
+![Create branch based on another](https://i.stack.imgur.com/6qEWk.jpg)
