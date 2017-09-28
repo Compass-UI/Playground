@@ -67,3 +67,5 @@ gemini-david 🌴 :`
 ## git reset HEAD
 
 ![git reset --hard HEAD](/imgs/hard-reset-head.png)
+
+### I am resetting HEAD --hard <-- this should not be here>
