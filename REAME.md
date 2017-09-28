@@ -25,3 +25,20 @@
 `git remote add origin https://github.com/Compass-UI/Playground.git`
 
 `git push -u origin master`
+
+## How did I create my branch from Team02
+
+`gemini-david 🌴 : git branch
+  master
+  master.Team01
+* master.Team01.David
+gemini-david 🌴 : pwd
+/Users/v738110/Compass/Playground/Playground
+gemini-david 🌴 : git branch
+* Team02
+  master
+  master.Team01
+  master.Team01.David
+gemini-david 🌴 : git checkout -b Team02.John Team02
+Switched to a new branch 'Team02.John'
+gemini-david 🌴 :`
