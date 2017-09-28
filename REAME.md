@@ -65,3 +65,5 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 gemini-david 🌴 :`
 
 ## git reset HEAD
+
+![git reset --hard HEAD](/imgs/hard-reset-head.png)
