@@ -120,3 +120,13 @@ gemini-david 🌴 :`
 ## Do some work and Stash
  
 ## Trash branch created before this commit
+
+## The side marked `<<<<<<HEAD` is current commit
+![`<<<<<<<HEADD`](/imgs/mege-conflict-current-commit.png)
+
+## Merge conflict from
+![`<<<<<<<HEADD`](/imgs/mege-conflict-from.png)
+
+
+## Both sides of merge conflict
+![`<<<<<<<HEADD`](/imgs/mege-conflict.png)
