@@ -73,3 +73,11 @@ gemini-david 🌴 :`
 ### Default reset is --mixed
 
 `git reset HEAD` is the same as `git reset HEAD --mixed`
+
+## 4 Git Areas
+
+1. Stash
+2. Workspace
+3. Staging/Index
+4. Repository
+
