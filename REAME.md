@@ -117,3 +117,5 @@ gemini-david 🌴 :`
 `gemini-david 🌴 : git stash --include-untracked`
 
 `gemini-david 🌴 : git stash list`
+## Do some work and Stash
+ 
