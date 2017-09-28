@@ -119,3 +119,4 @@ gemini-david 🌴 :`
 `gemini-david 🌴 : git stash list`
 ## Do some work and Stash
  
+## Trash branch created before this commit
