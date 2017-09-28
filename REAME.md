@@ -42,3 +42,5 @@ gemini-david 🌴 : git branch
 gemini-david 🌴 : git checkout -b Team02.John Team02
 Switched to a new branch 'Team02.John'
 gemini-david 🌴 :`
+
+## This commit is done after Team02 did some more work on Team branch
