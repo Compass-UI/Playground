@@ -111,3 +111,9 @@ gemini-david 🌴 :`
 
 ## After merge:
 ![imgs/branch-creation-history-visualization-after-merge.png](imgs/branch-creation-history-visualization-after-merge.png)
+
+## Stash
+
+`gemini-david 🌴 : git stash --include-untracked`
+
+`gemini-david 🌴 : git stash list`
