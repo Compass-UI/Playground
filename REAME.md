@@ -130,3 +130,8 @@ gemini-david 🌴 :`
 
 ## Both sides of merge conflict
 ![`<<<<<<<HEADD`](/imgs/mege-conflict.png)
+
+## reset HEAD
+
+* can reset entire index
+* or you can reset a single file
