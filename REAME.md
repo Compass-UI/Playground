@@ -135,3 +135,24 @@ gemini-david 🌴 :`
 
 * can reset entire index
 * or you can reset a single file
+
+## History
+
+`gemini-david 🌴 : git log --graph --decorate`
+
+`gemini-david 🌴 : git log --graph --decorate --oneline`
+
+### Show parent commit of HEAD
+`gemini-david 🌴 : git show HEAD^`
+
+#### Can get very suphisticated
+
+`gemini-david 🌴 : git show HEAD@{"1 month ago"}`
+
+### Who changed a specific file:
+
+`gemini-david 🌴 : git blame REAME.md`
+
+### Get difference between currenr comment and 2 commits earlier
+
+`gemini-david 🌴 : git diff HEAD HEAD~2`
