@@ -156,3 +156,13 @@ gemini-david 🌴 :`
 ### Get difference between currenr comment and 2 commits earlier
 
 `gemini-david 🌴 : git diff HEAD HEAD~2`
+
+`gemini-david 🌴 : git log --patch`
+
+### Show me commits that contain word git in it
+
+`gemini-david 🌴 : git log --grep git --oneline`
+
+### Show all commits between and master.Team01.David and master
+
+`gemini-david 🌴 : git log master.Team01.David master --oneline`
