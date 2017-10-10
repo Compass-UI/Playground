@@ -166,3 +166,7 @@ gemini-david 🌴 :`
 ### Show all commits between and master.Team01.David and master
 
 `gemini-david 🌴 : git log master.Team01.David master --oneline`
+
+### clean up multiple commits with ammend
+
+`git commit --amend`
