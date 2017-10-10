@@ -170,3 +170,5 @@ gemini-david 🌴 :`
 ### clean up multiple commits with ammend
 
 `git commit --amend`
+
+* commit 1
