@@ -179,3 +179,8 @@ gemini-david 🌴 :`
 
 * commit 4
 
+### Rebase
+
+`git rebase -i origin/master` ← change history from this commit ( origin/master ) onward
+
+`git rebase --continue`
