@@ -7,8 +7,12 @@
 
 ### create a new repository on the command line
 
+//Take both changes: master.Team01.David
 ### Pull Request 01
 ### Pull 02
+
+### Pull Request master.David
+//Take bothe changes: master.David
 
 `echo "# Playground" >> README.md`
 
